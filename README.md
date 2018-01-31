@@ -23,6 +23,8 @@ then add these directories within your JDK folder for example:
 To build in eclipse choose project right click and click 'Build All'
 if this does not work you will need to create an new project in your IDE and import the sources.
 
+![ScreenShot](./Agent.png?raw=true "screenshot")
+
 ## Usage
 
 java -agentpath:Debug/Agent  -jar javajam.jar
