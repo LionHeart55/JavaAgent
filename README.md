@@ -30,6 +30,7 @@ java -agentpath:Debug/Agent  -jar javajam.jar
 OR
 
 sudo chmod +x run.sh
+
 ./run.sh
 
 ## Sample output
