@@ -37,10 +37,10 @@ sudo chmod +x run.sh
 Exception Reference Type: Local Reference
 Exception Message: Throwing a test exception: IllegalThreadStateException
 Stacktrace: Frame count=2 num of frames: 2
-------------------------------------------------
+
 Number of records filled: 2
 Exception Stack Trace
-=====================
+
 Stack Trace Depth: 2
 at method Throwing( 47 ) in class LMain/Main;
 Variables: 1
